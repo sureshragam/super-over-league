@@ -1,0 +1,16 @@
+/* Write your code here. */
+#root {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+.heading {
+  color: white;
+  text-align: center;
+}
+img {
+  width: 50%;
+}
